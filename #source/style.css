@@ -1,0 +1,8 @@
+.block {
+  padding: 40px;
+  font-size: 50px;
+  line-height: 60px;
+}
+.block span {
+  color: crimson;
+}
